@@ -6,11 +6,10 @@ An <b>AI enthusiast</b> and <b>Web Developer </b>. Always ready to collaborate o
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhigyanBafna&label=Profile%20views&color=0e75b6&style=flat" alt="Abhigyan" /> </p>
 
-- 🔭 I’m currently working on my personal website
-- 🌱 I’m currently learning NextJS, TailwindCSS, ReactJS, Python
-- 🤔 I’m looking for help with getting into AI
+- 🌱 I’m currently learning Python.
+- 🤔 I’m looking for help with getting into AI.
 - 💬 Ask me anything about Web Dev.
-- ⚡ Fun fact: I like my coffee without sugar 
+- ⚡ Fun fact: I like my coffee without sugar.
 <br>
 
 
